@@ -4,5 +4,6 @@ Data Science Portfolio
 * Created a tool to analyse a dataset of sales.
 * Cleaned up the data and explored some features of it.
 ССЫЛКА
-# Project 2 : Digital recognizer on Kaggle
+# Project 2 : Sports Analysis
 -
+https://github.com/InterDiv/SportsAnalysis
