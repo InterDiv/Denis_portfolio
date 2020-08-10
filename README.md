@@ -3,7 +3,7 @@ Data Science Portfolio
 # Project 1 : Sales Analysis
 * Created a tool to analyse a dataset of sales.
 * Cleaned up the data and explored some features of it.
-ССЫЛКА
+https://github.com/InterDiv/SalesAnalysisKeithProj
 # Project 2 : Sports Analysis
 -Analysed basketball teams and players from NBA
 https://github.com/InterDiv/SportsAnalysis
