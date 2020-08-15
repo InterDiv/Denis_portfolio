@@ -1,4 +1,4 @@
-# Denis_portfolio
+# Denis_Artyukhov_portfolio
 Data Science Portfolio
 # Project 1 : Sales Analysis
 * Created a tool to analyse a dataset of sales.
@@ -6,12 +6,12 @@ Data Science Portfolio
 
 https://github.com/InterDiv/SalesAnalysisKeithProj
 # Project 2 : Sports Analysis
--Analysed basketball teams and players from NBA
+* Analysed basketball teams and players from NBA
 
 https://github.com/InterDiv/SportsAnalysis
 # Project 3 : Arcade Game
--Created a GUI app.
--Added necessary interface and objects.
+* Created a GUI app.
+* Added necessary interface and objects.
 
 https://github.com/InterDiv/StarGame
 
