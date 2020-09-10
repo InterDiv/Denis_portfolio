@@ -15,6 +15,11 @@ https://github.com/InterDiv/SportsAnalysis
 
 https://github.com/InterDiv/StarGame
 
+# Project 4 : House Pricing Kaggle
+* Took a participation in the Kaggle competition
+
+https://www.kaggle.com/interdiv/house-price/edit
+
 
 Courses(finished):
 * https://stepik.org/course/4852/syllabus
